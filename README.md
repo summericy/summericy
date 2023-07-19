@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summericy&layout=compact&theme=tokyonight" alt="Top Langs" height=180 style="border:0"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=summericy&show_icons=true&theme=tokyonight" alt="summericy's GitHub stats" height=180/>
+    <span style="display:inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summericy&layout=compact&theme=light" alt="Top Langs" height=180 style="border:0"/>
+    </span>
+    <span style="display:inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api?username=summericy&show_icons=true&theme=light" alt="summericy's GitHub stats" height=180/>
+    </span>
 </div>
-</div>
+
+
