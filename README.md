@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 <h1 align="center">summericy</h1>
 <div align="center">
 <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=summericy&show_icons=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=ffffff" alt="yaya-bb's GitHub stats" height=160/>
+    <img src="https://github-readme-stats.vercel.app/api?username=summericy&show_icons=true&show_icons=true&title_color=007bff&text_color=333333&icon_color=007bff&bg_color=ffffff" alt="yaya-bb's GitHub stats" height=160/>
 </span>
 </div>
+
 
 
 
